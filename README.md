@@ -4,4 +4,3 @@ SMTP stands for Simple Mail Transfer Protocol. The smtplib modules is useful for
 
 Sending mail is done with Python’s smtplib using an SMTP server.
 
-Actual usage varies depending on complexity of the email and settings of the email server, the instructions here are based on sending email through Gmail.
